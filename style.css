@@ -2,3 +2,11 @@ body{
   background:green;
   color:red;
   }
+img{
+  height:200px;
+  width:150px;
+  aspect-ratio: preserve;
+  }
+p{
+  font-size:22px;
+  }
