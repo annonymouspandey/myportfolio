@@ -2,7 +2,7 @@
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            color: #28282B;
+            color: #ffffff;
         }
         html{
                scroll-behaviour:smooth;
@@ -14,7 +14,7 @@
             width: 100%;
                height:590px;
             clip-path: polygon(0 0, 100% 0, 100% 81%, 81% 69%, 39% 80%, 0 81%);
-            background: #000a12;
+            background: #28282B;
         }
         nav {
             width: 70%;
