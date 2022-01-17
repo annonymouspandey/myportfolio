@@ -4,6 +4,9 @@
             box-sizing: border-box;
             color: #ffffff;
         }
+        html{
+               scroll-behaviour:smooth;
+               }
         body{
             background: #ffffff;
         }
