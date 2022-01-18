@@ -7,7 +7,7 @@
        font-family: 'Poppins', sans-serif;
         }
         html{
-               scroll-behaviour:smooth;
+               scroll-behavior:smooth;
                }
         body{
             background: #ffffff;
@@ -52,6 +52,10 @@ margin-left: 18%;
                     font-weight:600;
 
         }
+nav ul li:hover{
+            transform:scale(1.4);
+            color:orange;
+}
        .img img{
             height: 250px;
             width: 250px;
