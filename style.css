@@ -48,6 +48,8 @@ margin-left: 18%;
         li a {
             text-decoration: none;
             color: #ffffff;
+                    font-size:22px;
+                    font-weight:600;
 
         }
        .img img{
@@ -83,18 +85,18 @@ margin-left: 18%;
             
         }
         button{
-            height: 80px;
+            height: 60px;
         text-decoration: none;
-            width: 200px;
+            width: 195px;
             border-radius: 10px;
             border: 2px solid orange;
             text-align: center;
             margin-top: 20px;
             background: transparent;
-            font-size: 38px;
+            font-size: 26px;
             color: orange;
-            font-weight: 900;
-            letter-spacing:1px;
+            font-weight: 500;
+            letter-spacing:1.5px;
         }
 .aboutMe{
     
@@ -127,7 +129,7 @@ margin-left: 18%;
 }
 .left img{
     height: 650px;
-    width: 600px;
+    width: 750px;
 }
 .right p{
     width:100%;
