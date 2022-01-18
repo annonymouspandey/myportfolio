@@ -61,11 +61,10 @@ margin-left: 18%;
             align-items: center;
             justify-content: space-between;
         }
-      /*  .img{
+      .img{
             width: 40%;
-            max-width: 40%;
             margin-right: 30px;
-        }*/
+        }
         .text h4 span{
            color: orange;
            font-size: 22px;
