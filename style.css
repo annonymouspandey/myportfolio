@@ -43,17 +43,19 @@ margin-left: 18%;
             
            
             list-style: none;
-            transition:all 0.4s ease-in-out;
+           
         }
         li a {
-            text-decoration: none;
-            color: #ffffff;
+                    text-decoration: none;
+                    color: #ffffff;
                     font-size:24px;
                     font-weight:400;
+                     transition:all 0.3s ease;
+                    letter-spacing:1px;
 
         }
-nav ul li:hover{
-            transform:scale(1.4);
+nav ul li a:hover{
+            transform:scale(1.2);
             color:orange;
 }
        .img img{
@@ -76,18 +78,19 @@ nav ul li:hover{
             margin-right: 80px;
         }
         .text h4 span{
-           color: orange;
-           font-size: 22px;
-           font-weight: 700;
+                    color: orange;
+                    font-size: 22px;
+                    font-weight: 700;
+                    letter-spacing:1.2px;
         }
         .text h4{
             margin-bottom: 10px;
         }
         .hirebtn{
         
-            margin-top: 20px;
+            margin-top: 45px;
             height:80px;
-            width:195px;
+            width:250px;
             text-align: center;
             background: transparent;
             font-size: 26px;
@@ -95,7 +98,7 @@ nav ul li:hover{
             font-weight: 500;
         }
         .hirebtn a{
-                    padding:1.5rem 2rem;
+                    padding:1rem 2.5rem;
                     border-radius:10px;
                     border: 2px solid orange;    
                     text-decoration: none;
