@@ -119,17 +119,17 @@ margin-left: 18%;
     margin-left:5%;
 }
 .left{
-    width: 60%;
-       
+    width: 60%; 
     margin-right: 50px;
-    
+    background:green;
 }
 .left img{
-    height: 500px;
-    width: 550px;
+    height: 550px;
+    width: 600px;
 }
 .right p{
-    
+    width:40%;
+    background:purple;
     color:#000000;
     font-size: 18px;
 }
