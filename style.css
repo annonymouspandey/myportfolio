@@ -86,12 +86,8 @@ nav ul li:hover{
         .hirebtn{
         
             margin-top: 20px;
-            
-        }
-        button{
-            height: 60px;
-        text-decoration: none;
-            width: 195px;
+            height:60px;
+            width:195px;
             border-radius: 10px;
             border: 2px solid orange;
             text-align: center;
@@ -100,8 +96,13 @@ nav ul li:hover{
             font-size: 26px;
             color: orange;
             font-weight: 500;
-            letter-spacing:1.5px;
         }
+        .hirebtn a{
+            
+        text-decoration: none;
+        letter-spacing:1.5px;
+        }
+
 .aboutMe{
     
     width: 100%;
