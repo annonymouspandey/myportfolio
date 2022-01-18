@@ -40,16 +40,16 @@ margin-left: 18%;
                padding:10px;
         }
         li {
-            font-size: 22px;
-            font-weight: 600;
-            color: #ffffff;
+            
+           
             list-style: none;
+            transition:all 0.4s ease-in-out;
         }
         li a {
             text-decoration: none;
             color: #ffffff;
-                    font-size:22px;
-                    font-weight:600;
+                    font-size:24px;
+                    font-weight:400;
 
         }
 nav ul li:hover{
@@ -86,22 +86,27 @@ nav ul li:hover{
         .hirebtn{
         
             margin-top: 20px;
-            height:60px;
+            height:80px;
             width:195px;
-            border-radius: 10px;
-            border: 2px solid orange;
             text-align: center;
-            margin-top: 20px;
             background: transparent;
             font-size: 26px;
-            color: orange;
+           
             font-weight: 500;
         }
         .hirebtn a{
-            
-        text-decoration: none;
-        letter-spacing:1.5px;
-        }
+                    padding:1.5rem 2rem;
+                    border-radius:10px;
+                    border: 2px solid orange;    
+                    text-decoration: none;
+                    letter-spacing:1.5px;
+                    color: orange;
+                 }
+   .hirebtn a:hover{
+                       transform:translateX(10px);
+                       
+}
+
 
 .aboutMe{
     
