@@ -118,17 +118,15 @@ margin-left: 18%;
     margin-left:5%;
 }
 .left{
-    width: 60%; 
-    margin-right: 50px;
-    background:green;
+    min-width: 60%; 
+    
 }
 .left img{
     height: 550px;
     width: 600px;
 }
 .right p{
-    width:40%;
-    background:purple;
+    width:100%;
     color:#000000;
     font-size: 18px;
 }
