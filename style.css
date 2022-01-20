@@ -17,7 +17,29 @@
                height:590px;
             clip-path: polygon(0 0, 100% 0, 100% 81%, 81% 69%, 39% 80%, 0 81%);
             background: #28282B;
+                    position:relative;
         }
+.custom-shape{
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 116px;
+}
+
+.custom-shape .shape-fill {
+    fill: #FFFFFF;
+}
+
         nav {
             width: 70%;
 margin-left: 18%;
