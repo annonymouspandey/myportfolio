@@ -140,6 +140,7 @@ nav ul li a:hover{
 .abtHeading{
     text-align: center;
     width: 100%;
+    margin-top:30px;
 }
 .abtHeading h2{
     color: orange;
@@ -158,12 +159,12 @@ nav ul li a:hover{
 }
 .left{
     margin-left:20px;
-       
+    margin-right:30px   
     
 }
 .left img{
-    height: 350px;
-    width: 450px;
+    height: 380px;
+    width: 400px;
 }
 .right p{
     width:100%;
