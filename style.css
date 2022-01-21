@@ -164,10 +164,12 @@ nav ul li a:hover{
 }
 .left img{
     height: 380px;
-    width: 400px;
+    width: 370px;
+    aspect-ratio:preserve;
 }
 .right p{
     width:100%;
-    color:#555555;
+    color:rgb(128, 128, 128);
     font-size: 24px;
+            
 }
