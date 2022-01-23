@@ -100,9 +100,10 @@ nav ul li a:hover{
         }
         .text h4 span{
                     color: orange;
-                    font-size: 22px;
+                    font-size: 32px;
                     font-weight: 700;
                     letter-spacing:1.2px;
+                    margin-left:10px;
         }
         .text h4{
             margin-bottom: 10px;
