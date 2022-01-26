@@ -184,7 +184,7 @@ section .weapons{
             position:relative;
             background:linear-gradient(to bottom,rgba(236, 165, 28, 0.82),rgba(255, 165, 0, 0.75));
 }
-.custom-shape-rot{
+.custom-shapes{
     position: absolute;
     top: -3px;
     left: 0;
@@ -193,13 +193,13 @@ section .weapons{
     line-height: 0;
     transform: rotate(0deg);
 }
-.custom-shape-rot svg {
+.custom-shapes svg {
     position: relative;
     display: block;
     width: calc(100% + 1.3px);
     height: 116px;
 }
 
-.custom-shape-rot .shape-fill {
+.custom-shapes .shape-fill {
     fill: #FFFFFF;
 }
