@@ -34,10 +34,11 @@
     display: block;
     width: calc(100% + 1.3px);
     height: 116px;
+    
 }
 
 .custom-shape .shape-fill {
-    fill: #FFFFFF;
+    fill: #F3F2F1;
 }
 
         nav {
@@ -126,14 +127,14 @@ nav ul li a:hover{
                     border: 2px solid orange;    
                     text-decoration: none;
                     letter-spacing:1.5px;
-                    color:indigo;
+                    color:rgba(128,128,128,0.8);
                     box-shadow: 0px 6px 8px black;
                     cursor:pointer;
                     transition:all 0.3s ease;
                  }
    .hirebtn a:hover{
                       
-                  font-size:28px;     
+                  color:#ffffff;
 }
 
 
@@ -174,11 +175,11 @@ nav ul li a:hover{
 }
 .right p{
     width:100%;
-    color:rgb(128, 128, 128);
+    color:rgba(128, 128, 128,0.8);
     font-size: 24px;
             
 }
-section .weapons{
+.weapons{
             height:600px;
             width:100%;
             position:relative;
