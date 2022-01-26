@@ -176,3 +176,27 @@ nav ul li a:hover{
     font-size: 24px;
             
 }
+section .weapon{
+            height:600px;
+            width:100%;
+            position:relative;
+}
+.custom-shape--01{
+    position: absolute;
+    top: -3px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(0deg);
+}
+.custom-shape--01 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 116px;
+}
+
+.custom-shape--01 .shape-fill {
+    fill: #FFFFFF;
+}
