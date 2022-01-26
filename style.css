@@ -16,7 +16,8 @@
              width: 100%;
              height:600px;
              position:relative;
-             background: linear-gradient(to bottom,rgba(255,170,51,0.5),rgba(255,165,0,0.8));
+             background:    linear-gradient(to bottom,rgba(236, 165, 28, 0.82),rgba(255, 165, 0, 0.75));
+}
         }
 .custom-shape{
     position: absolute;
