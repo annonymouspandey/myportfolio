@@ -112,15 +112,16 @@ nav ul li a:hover{
         .hirebtn{
         
             margin-top: 45px;
+            margin-left:30px;
             height:80px;
-            width:250px;
+            width:215px;
             text-align: center;
             background: transparent;
             font-size: 26px;
             font-weight: 500;
         }
         .hirebtn a{
-                    padding:1rem 2.5rem;
+                    padding:8px 30px;
                     border-radius:10px;
                     border: 2px solid orange;    
                     text-decoration: none;
@@ -128,10 +129,11 @@ nav ul li a:hover{
                     color:indigo;
                     box-shadow: 0px 6px 8px black;
                     cursor:pointer;
+                    transition:all 0.3s ease;
                  }
-   .hirebtn:hover{
-                       transform:translateX(10px);
-                       
+   .hirebtn a:hover{
+                      
+                  font-size:28px;     
 }
 
 
