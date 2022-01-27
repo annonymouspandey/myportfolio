@@ -38,7 +38,7 @@
 }
 
 .custom-shape .shape-fill {
-    fill: #F3F2F1;
+    fill: #ffffff;
 }
 
         nav {
@@ -120,6 +120,7 @@ nav ul li a:hover{
             background: transparent;
             font-size: 26px;
             font-weight: 500;
+            user-select:none;        
         }
         .hirebtn a{
                     padding:8px 30px;
@@ -131,6 +132,7 @@ nav ul li a:hover{
                     box-shadow: 0px 6px 8px black;
                     cursor:pointer;
                     transition:all 0.3s ease;
+                    user-select:none;
                  }
    .hirebtn a:hover{
                       
