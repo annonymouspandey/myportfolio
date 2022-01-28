@@ -82,10 +82,14 @@ nav ul li a:hover{
             color:orange;
 }
        .img img{
-            height: 250px;
-            width: 250px;
+            height: 260px;
+            width: 360px;
             border-radius: 100%;
             aspect-ratio: preserve;
+            float:right;
+            margin-right:20px;
+            box-shadow:-4px 8px 12px black;
+            
         }
         .navSec{
             padding: 10px;
@@ -107,6 +111,9 @@ nav ul li a:hover{
                     letter-spacing:1.2px;
                     margin-left:10px;
         }
+.text-wrap{
+            width:80%;
+}
         .text h4{
             margin-bottom: 10px;
         }
