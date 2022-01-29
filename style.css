@@ -219,3 +219,8 @@ nav ul li a:hover{
 .custom-shapes .shape-fill {
     fill: #FFFFFF;
 }
+.weapon-wrapper img{
+              height:200px;
+            width:200px;
+            margin:20px;
+            }
