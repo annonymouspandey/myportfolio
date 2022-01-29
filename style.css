@@ -44,7 +44,7 @@
 
         nav {
             width: 70%;
-margin-left: 18%;
+            margin-left: 18%;
             padding: 20px;
             height: 100px;
 
@@ -84,8 +84,8 @@ nav ul li a:hover{
 }
        .img img{
             height: 260px;
-            width: 360px;
-            border-radius: 100%;
+            width: 260px;
+            border-radius: 80%;
             aspect-ratio: preserve;
             float:right;
             margin-right:20px;
@@ -96,7 +96,7 @@ nav ul li a:hover{
             padding: 10px;
             margin-top: 70px;
             margin-left: 30px;
-            width: 100%;
+            width: 80%;
             display: flex;
             align-items: center;
             justify-content: space-between;
@@ -152,7 +152,7 @@ nav ul li a:hover{
 }
 .abtHeading{
              text-align: center;
-             width: 100%;
+             width: 90%;
              margin-top:30px;
              margin-bottom: 30px;
 }
