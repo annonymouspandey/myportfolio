@@ -220,6 +220,8 @@ nav ul li a:hover{
     fill: #FFFFFF;
 }
 .weapon-wrapper{
+            margin-top:50px;
+            margin-left:30px;
             display:grid;
             grid-column-gap: 10px;
             grid-row-gap: 10px;
