@@ -195,13 +195,13 @@ nav ul li a:hover{
             
 }
 .weapons{
-            height:680px;
+           
             width:100%;
             position:relative;
             background:linear-gradient(to bottom,rgba(236, 165, 28, 0.82),rgba(255, 165, 0, 0.75));
 }
 .weapons h1{
-             transform:translateX(40%);
+             transform:translate(40%,10%);
              ma4gin-top:30px;
              color:#ffffff;
              font-size:28px;
