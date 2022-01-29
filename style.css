@@ -196,10 +196,16 @@ nav ul li a:hover{
 }
 .weapons{
             height:600px;
-    
+            width:100%;
             position:relative;
             background:linear-gradient(to bottom,rgba(236, 165, 28, 0.82),rgba(255, 165, 0, 0.75));
 }
+.weapons h1{
+             transform:translateX(40%);
+             color:#ffffff;
+             font-size:28px;
+             font-weight:600;
+            }
 .custom-shapes{
     position: absolute;
     top: -3px;
@@ -230,5 +236,5 @@ nav ul li a:hover{
 .weapon-wrapper img{
               height:100px;
               width:100px;
-              margin:30px;
+              
             }
