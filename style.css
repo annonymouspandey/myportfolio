@@ -235,11 +235,16 @@ nav ul li a:hover{
             width:90%;
             display:grid;
             grid-column-gap: 10px;
-            grid-row-gap: 10px;
+            grid-row-gap: 20px;
             grid-template-columns: auto auto auto;
             }
 .weapon-wrapper img{
-              height:100px;
-              width:100px;
+              height:80px;
+              width:80px;
               
+            }
+.weapon-wrapper img:nth-child(5){
+              height:120px;
+              width:100px;
+            
             }
