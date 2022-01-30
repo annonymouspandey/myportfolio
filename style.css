@@ -151,7 +151,7 @@ nav ul li a:hover{
 
 
 .aboutMe{
-            height:560px;
+            height:520px;
 }
 .abtHeading{
             
@@ -164,7 +164,7 @@ nav ul li a:hover{
 }
 .abtHeading h2{
     position:absolute; 
-    top:10px;
+    top:20px;
     left:40%;
     color: orange;
     font-size: 32px;
