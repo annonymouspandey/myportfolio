@@ -236,6 +236,7 @@ nav ul li a:hover{
             top:190px;
             left:0px;
             padding-left:100px;
+            width:90%;
             max-width:90%;
             display:grid;
             grid-column-gap: 10px;
