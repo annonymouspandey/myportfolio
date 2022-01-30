@@ -162,7 +162,7 @@ nav ul li a:hover{
              height:100px;
 }
 }
-.abtHeading h2{
+.abtHeading > h2{
   
     color: orange;
     font-size: 32px;
