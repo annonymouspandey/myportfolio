@@ -236,9 +236,9 @@ nav ul li a:hover{
             top:190px;
             left:50px;
             margin-left:30px;
-            width:90%;
+            width:85%;
             display:grid;
-            grid-row-gap:90px;
+            grid-row-gap:20px;
             grid-template-columns: auto auto auto;
             place-items:center;
             height:435px;
