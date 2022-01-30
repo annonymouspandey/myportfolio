@@ -151,16 +151,21 @@ nav ul li a:hover{
 
 
 .aboutMe{
-            height:540px;
+            height:560px;
 }
 .abtHeading{
+            
+             position:relative;
              text-align: center;
              width: 100%;
-             margin-top:40px;
+            
              margin-bottom: 30px;
 }
 }
 .abtHeading h2{
+    position:absolute; 
+    top:10px;
+    left:40%;
     color: orange;
     font-size: 32px;
     font-weight: 700;
