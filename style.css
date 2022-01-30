@@ -116,7 +116,7 @@ nav ul li a:hover{
                     margin-left:10px;
         }
 .text-wrap{
-            width:60%;
+            width:70%;
            
 }
         .text h4{
@@ -154,9 +154,8 @@ nav ul li a:hover{
             height:520px;
 }
 .abtHeading{
-            
-             position:relative;
-             margin-top:20px;
+           
+             margin-top:30px;
              text-align: center;
              width: 100%;
              margin-bottom: 30px;
@@ -164,9 +163,7 @@ nav ul li a:hover{
 }
 }
 .abtHeading h2{
-    position:absolute; 
-    top:50px;
-    left:40%;
+  
     color: orange;
     font-size: 32px;
     font-weight: 700;
