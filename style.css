@@ -164,7 +164,7 @@ nav ul li a:hover{
 }
 .abtHeading h2{
     position:absolute; 
-    top:20px;
+    top:30px;
     left:40%;
     color: orange;
     font-size: 32px;
@@ -235,13 +235,12 @@ nav ul li a:hover{
 }
 .weapon-wrapper{
             position: absolute;
-            top:140px;
-            left: 80px;
+            top:180px;
+            left: 110px;
             width:90%;
             display:grid;
             grid-column-gap: 10px;
             grid-row-gap: 40px;
-            place-items:center;
             grid-template-columns: auto auto auto;
             }
 .weapon-wrapper img{
