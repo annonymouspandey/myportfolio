@@ -160,7 +160,7 @@ nav ul li a:hover{
              width: 100%;
              margin-bottom: 30px;
              height:100px;
-}
+
 }
 .abt-text{
   
@@ -233,7 +233,7 @@ nav ul li a:hover{
 }
 .weapon-wrapper{
             position: absolute;
-            top:190px;
+            top:160px;
             left:50px;
             margin-left:30px;
             width:85%;
@@ -241,11 +241,11 @@ nav ul li a:hover{
             grid-row-gap:20px;
             grid-template-columns: auto auto auto;
             place-items:center;
-            height:435px;
+            height:395px;
             }
 .weapon-wrapper img{
-              height:80px;
-              width:80px;
+              height:70px;
+              width:75px;
               
             }
 .weapon-wrapper img:nth-child(5){
@@ -254,7 +254,7 @@ nav ul li a:hover{
             
             }
 .tools-pic{
-            height:150px;
+            height:130px;
             text-align:center;
  
 }
