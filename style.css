@@ -231,7 +231,7 @@ nav ul li a:hover{
 .weapon-wrapper{
             position: absolute;
             top:140px;
-            left: 35px;
+            left: 50px;
             width:90%;
             display:grid;
             grid-column-gap: 10px;
