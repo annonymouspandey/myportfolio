@@ -146,7 +146,7 @@ nav ul li a:hover{
    .hirebtn a:hover{
                       
                   color:orange;
-                  border-radius:10px;
+                  border-radius:15px;
 }
 
 
@@ -233,9 +233,10 @@ nav ul li a:hover{
 }
 .weapon-wrapper{
             position: absolute;
-            top:180px;
-            left: 110px;
-            width:90%;
+            top:190px;
+            left:0px;
+            padding-left:100px;
+            max-width:90%;
             display:grid;
             grid-column-gap: 10px;
             grid-row-gap: 40px;
