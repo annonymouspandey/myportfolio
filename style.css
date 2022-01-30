@@ -241,6 +241,7 @@ nav ul li a:hover{
             display:grid;
             grid-column-gap: 10px;
             grid-row-gap: 40px;
+            place-items:center;
             grid-template-columns: auto auto auto;
             }
 .weapon-wrapper img{
