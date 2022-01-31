@@ -245,8 +245,12 @@ nav ul li a:hover{
 .weapon-wrapper img{
               height:75px;
               width:80px;
-              
+              transition:all 0.4s ease;
             }
+.weapon-wrapper img:hover{
+            transform:scale(1.2);
+            background:orange;
+}
 .weapon-wrapper img:nth-child(1){
               height:50px;
               width:55px;
