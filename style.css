@@ -248,6 +248,11 @@ nav ul li a:hover{
               width:75px;
               
             }
+.weapon-wrapper img:nth-child(1){
+              height:60px;
+              width:60px;
+            
+            }
 .weapon-wrapper img:nth-child(5){
               height:120px;
               width:100px;
