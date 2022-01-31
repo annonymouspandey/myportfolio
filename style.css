@@ -235,13 +235,12 @@ nav ul li a:hover{
             position: absolute;
             top:160px;
             left:50px;
-            margin-left:30px;
             width:85%;
             display:grid;
             grid-row-gap:20px;
             grid-template-columns: auto auto auto;
             place-items:center;
-            height:395px;
+           
             }
 .weapon-wrapper img{
               height:70px;
@@ -262,4 +261,9 @@ nav ul li a:hover{
             height:130px;
             text-align:center;
  
+}
+footer{
+            height:500px;
+            width:100%;
+            
 }
