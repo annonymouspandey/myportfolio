@@ -288,7 +288,17 @@ footer{
             align-items:center;
             justify-content:center;
 }
+.soc-icons span{
+           margin-left:40px;
+}
+.soc-icons span a{
+            text-decoration:none;
+            transition:all 0.4s ease;
+}
+.soc-icons span a:hover{
+            transform:scale(1.2),rotate(10deg);
+}
 .soc-icons span i{
-             font-size:55px;
+             font-size:35px;
              color:orange;
 }
