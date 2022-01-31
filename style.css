@@ -250,7 +250,7 @@ nav ul li a:hover{
             }
 .weapon-wrapper img:hover{
             transform:scale(1.2);
-            background:orange;
+           
 }
 .weapon-wrapper img:nth-child(1){
               height:50px;
