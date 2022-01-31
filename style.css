@@ -279,3 +279,12 @@ footer{
             width:100%;
             
 }
+.soc-icons{
+            display:flex;
+            align-items:center;
+            justify-content:center;
+}
+.soc-icons span i{
+             font-size:26px;
+             color:orange;
+}
