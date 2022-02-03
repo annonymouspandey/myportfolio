@@ -313,7 +313,7 @@ footer{
 }
 .copyright{
              position:relative; 
-          
+             height:180px;
             width:100%
             }
 .copyright p{
@@ -321,11 +321,11 @@ footer{
           bottom:0;
           left:30%;
           color:rgba(137,137,138,0.8);
+          font-size:18px;
 }
 .copyright p span{
-            color:black;
-            font-size:18px;
-
+            color:rgba(8,8,8,0.8);
+            font-size:16px;
 }
 
 
