@@ -1,7 +1,5 @@
-
-
-const d = new Date();
-
-document.getElementById("demo").innerText = d;
+disMessage(){
+     alert('This service is still in construction phase');
+  }
 
 
