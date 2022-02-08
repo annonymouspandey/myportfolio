@@ -535,23 +535,28 @@ footer{
               width:55px;
             
             }
+ .weapon-wrapper img:nth-child(2){
+              height:52px;
+              width:55px;
+            
+            }
 .weapon-wrapper img:nth-child(5){
               height:45px;
               width:55px;
             }
 .weapon-wrapper img:nth-child(4){
               height:45px;
-              width:55px;
+              width:62px;
             
             }
 .weapon-wrapper img:nth-child(7){
             height:45px;
-              width:55px;
+              width:62px;
             
             }
 .weapon-wrapper img:nth-child(10){
              height:45px;
-              width:55px;
+              width:62px;
             
             }
 
