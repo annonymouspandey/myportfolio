@@ -385,6 +385,7 @@ footer{
                   font-weight: 800;
                   letter-spacing:1px;
                   margin-left:5px;
+                  text-transform:uppercase;
         }
 .text-wrap{
             width:100%;
@@ -396,6 +397,7 @@ footer{
 
         .text h6{
                     margin-bottom: 6px;
+                    font-size:10px;
                   
         }
         .hirebtn{
