@@ -109,8 +109,12 @@ nav ul li a:hover{
      .text{
                  max-width:50%;
                  }
+     .text h6{
+                 font-size:18px;
+                 
+                 }
         .text h6 span{
-                    color: orange;
+                    color:rgba(128,128,128,0.8);
                     font-size: 32px;
                     font-weight: 500;
                     letter-spacing:1.2px;
