@@ -412,7 +412,7 @@ footer{
                     padding:3px 12px;
                     border: 1px solid orange;
                     color:rgba(128,128,128,0.8);
-                    font-size: 20px;
+                    font-size: 16px;
                     font-weight: 500;
                  }
    
@@ -463,6 +463,11 @@ header {
      margin-top: 15px;
      line-height: 18px;
      
+}
+  .left img{
+    height: 390px;
+    width: 390px;
+    
 }
 
 .weapons h1{
