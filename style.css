@@ -456,7 +456,7 @@ header {
    width:20% 
 }
 .left img{
-    height: 100px;
+    height: 120px;
     width: 120px;
     
 }
@@ -475,11 +475,7 @@ header {
      line-height: 18px;
      
 }
-  .left img{
-    height: 390px;
-    width: 390px;
-    
-}
+  
 
 .weapons h1{
              top:50px;
