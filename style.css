@@ -109,7 +109,7 @@ nav ul li a:hover{
      .text{
                  max-width:50%;
                  }
-        .text h4 span{
+        .text h6 span{
                     color: orange;
                     font-size: 32px;
                     font-weight: 500;
@@ -371,7 +371,7 @@ footer{
       }
       .text{
          height: 200px;
-         margin-top: 18%;
+         margin-top: 13%;
           
       }
         .text h6 span{
