@@ -286,6 +286,15 @@ nav ul li a:hover{
           height:80px;
             
 }
+.moving-text{
+            
+            height:70px;
+            color:orange;
+}
+marquee{
+            color:orange;
+            
+}
 
 footer{
             height:300px;
