@@ -501,6 +501,55 @@ footer{
 .soc-icons span{
            margin-left:10px;
 }
+   
+ .weapons{
+        height: 450px;
+}
+.weapons h1{
+
+             font-size:18px;
+            }
+  
+  .weapon-wrapper{
+            position: absolute;
+            top:130px;
+            left:5px;
+            width:95%;
+            grid-row-gap:15px;
+            background: red;
+           padding-bottom: 4px;
+            }
+.weapon-wrapper img{
+              height:55px;
+              width:65px;
+            }
+
+.weapon-wrapper img:nth-child(1){
+              height:50px;
+              width:55px;
+            
+            }
+.weapon-wrapper img:nth-child(5){
+              height:55px;
+              width:65px;
+            }
+.weapon-wrapper img:nth-child(4){
+              height:55px;
+              width:65px;
+            
+            }
+.weapon-wrapper img:nth-child(7){
+            height:55px;
+              width:65px;
+            
+            }
+.weapon-wrapper img:nth-child(10){
+             height:55px;
+              width:65px;
+            
+            }
+
+          
 }
 
 
