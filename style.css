@@ -522,8 +522,8 @@ footer{
             top:130px;
             left:5px;
             width:95%;
-            grid-row-gap:15px;
-           padding-bottom: 4px;
+            grid-row-gap:23px;
+           
             }
 .weapon-wrapper img{
               height:45px;
