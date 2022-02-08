@@ -282,12 +282,14 @@ nav ul li a:hover{
               width:100px;
             
             }
-
+.projects{
+          height:80px;
+            
+}
 
 footer{
             height:300px;
             width:100%;
-            margin-top:50px;
             background:orange;
 }
 .social-container{
