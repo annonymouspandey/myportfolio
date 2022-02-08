@@ -398,6 +398,7 @@ footer{
         .text h6{
                     margin-bottom: 6px;
                     font-size:10px;
+                    color:rgba(128,128,128,0.8);
                   
         }
         .hirebtn{
@@ -408,10 +409,9 @@ footer{
                 
         }
         .hirebtn a{
-                    padding:3px 15px;
+                    padding:3px 12px;
                     border: 1px solid orange;
                     color:rgba(128,128,128,0.8);
-                    box-shadow: 0px ;
                     font-size: 20px;
                     font-weight: 500;
                  }
@@ -466,10 +466,8 @@ header {
 }
 
 .weapons h1{
-            
-             
              top:50px;
-             left:31%;
+             left:32.5%;
              color:#ffffff;
              font-size:22px;
              font-weight:600;
