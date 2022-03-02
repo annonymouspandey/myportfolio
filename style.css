@@ -352,8 +352,8 @@ footer{
     padding: 120px;
     z-index: 1;
     opacity: 0;
-    background:rgba(255,255,255,0.7);
-    backdrop-filter: blur(5px);
+    background:rgba(255,255,255,0.8);
+    backdrop-filter: blur(7px);
     border-radius: 6px;
     visibility: hidden;
     transition: all 0.3s ease;
@@ -387,12 +387,14 @@ footer{
     display: flex;
     align-items: center;
     width: 100%;
+    border-bottom:2px solid orange;
     margin-bottom: 20px;
 }
 .mail{
     display: flex;
     align-items: center;
     width: 100%;
+    border-bottom:2px solid orange;
     margin-bottom: 20px;
 }
 address{
@@ -660,8 +662,8 @@ footer{
  .popup{
     width: 80%;
     padding: 20px 30px;
-    background:rgba(255,255,255,0.7) ;
-    backdrop-filter:blur(3px);
+    background:rgba(255,255,255,0.8) ;
+    backdrop-filter:blur(6px);
     box-shadow: -2px 4px 10px black;
 }
 .popup h1{
