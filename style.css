@@ -343,6 +343,94 @@ footer{
             color:rgba(127,127,127,1);
             font-size:25px;
 }
+.popup{
+    position:fixed;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 900px;
+    padding: 120px;
+    z-index: 1;
+    opacity: 0;
+    background:rgba(255,255,255,0.7);
+    backdrop-filter: blur(5px);
+    border-radius: 6px;
+    visibility: hidden;
+    transition: all 0.3s ease;
+}
+
+#blur.active{
+    filter: blur(4px);
+    
+
+}
+#popup.active{
+    visibility: visible;
+    top: 50%;
+    opacity: 1;
+}
+.avtar{
+   display: flex;
+   align-items:center;
+   justify-content: center;
+   margin-bottom: 10px;
+}
+.avtar_pic{
+    height: 120px;
+    width: 120px;
+}
+.popup span{
+    font-size: 16px;
+    
+}
+.phone{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.mail{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+address{
+    margin-top: 20px;
+}
+.phone img{
+    height: 80px;
+    width: 80px;
+    margin-right:60px;
+}
+.phone span {
+    width:70%;
+    font-size: 32px;
+    letter-spacing: 1.4px;
+    color: orange;
+}
+.mail span {
+    width:70%;
+    font-size: 32px;
+    letter-spacing: 1.4px;
+    color: orange;
+}
+
+.mail img{
+    height: 80px;
+    width: 80px;
+    margin-right: 60px;
+}
+.popup a{
+    text-decoration: none;
+    padding: 10px 20px;
+    font-size: 28px;
+    border-radius:6px;
+    margin-top:16px ;
+    color: orange;
+    background: #ffffff;
+    box-shadow: 0px 4px 6px #000000;
+}
 @media screen and (max-width: 360px) {
        nav {
             width: 95%;
@@ -569,6 +657,58 @@ footer{
               width:62px;
             
             }
+ .popup{
+    width: 80%;
+    padding: 20px 30px;
+    background:rgba(255,255,255,0.7) ;
+    backdrop-filter:blur(3px);
+    box-shadow: -2px 4px 10px black;
+}
+.popup h1{
+    font-size:10px;
+    margin-bottom: 10px;
+     color: orange;
+}
+
+.popup i{
+    font-size:12px;
+    color: blue;
+}
+.popup span{
+    color: orange;
+    font-size: 10px;
+    font-weight: 800;
+}
+.avtar_pic{
+    height: 80px;
+    width: 80px;
+}
+.popup a{
+    text-decoration: none;
+    padding: 4px 12px;
+    font-size: 8px;
+    border-radius:6px;
+    margin-top:8px ;
+    color: orange;
+    box-shadow: 0px 2px 4px #000000;
+}
+
+.phone img{
+    height: 25px;
+    width: 25px;
+    margin-bottom: 10px;
+    margin-right: 20px;
+}
+
+
+.mail img{
+    height: 25px;
+    width: 25px;
+    margin-right: 20px;
+}
+.phone,.mail{
+    margin-bottom: 10px;
+}
 
           
 }
