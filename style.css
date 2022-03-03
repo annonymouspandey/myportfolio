@@ -352,8 +352,8 @@ footer{
     padding: 120px;
     z-index: 1;
     opacity: 0;
-    background:rgba(255,255,255,0.8);
-    backdrop-filter: blur(7px);
+    background:rgba(255,255,255,0.9);
+    backdrop-filter: blur(12px);
     border-radius: 6px;
     visibility: hidden;
     transition: all 0.3s ease;
@@ -428,7 +428,7 @@ address{
     padding: 10px 20px;
     font-size: 28px;
     border-radius:6px;
-    margin-top:16px ;
+    margin-top:20;px ;
     color: orange;
     background: #ffffff;
     box-shadow: 0px 4px 6px #000000;
@@ -663,7 +663,7 @@ footer{
     width: 80%;
     padding: 20px 30px;
     background:rgba(255,255,255,0.8) ;
-    backdrop-filter:blur(6px);
+    backdrop-filter:blur(8px);
     box-shadow: -2px 4px 10px black;
 }
 .popup h1{
