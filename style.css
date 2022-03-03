@@ -374,6 +374,7 @@ footer{
    align-items:center;
    justify-content: center;
    margin-bottom: 10px;
+   box-shadow:-3px 4px 8px rgba(0,0,0,0.7);
 }
 .avtar_pic{
     height: 120px;
@@ -684,6 +685,7 @@ footer{
 .avtar_pic{
     height: 80px;
     width: 80px;
+    box-shadow:-2px 3px 6px rgba(0,0,0,0.7);
 }
 .popup a{
     text-decoration: none;
