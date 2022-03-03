@@ -352,11 +352,12 @@ footer{
     padding: 120px;
     z-index: 1;
     opacity: 0;
-    background:rgba(255,255,255,0.9);
-    backdrop-filter: blur(12px);
+    background:rgba(255,255,255,0.8);
+    backdrop-filter: blur(20px);
     border-radius: 6px;
     visibility: hidden;
     transition: all 0.3s ease;
+    box-shadow: -2px 4px 10px black;
 }
 
 #blur.active{
@@ -429,7 +430,7 @@ address{
     padding: 10px 20px;
     font-size: 28px;
     border-radius:6px;
-    margin-top:20;px ;
+    margin-top:20px ;
     color: orange;
     background: #ffffff;
     box-shadow: 0px 4px 6px #000000;
